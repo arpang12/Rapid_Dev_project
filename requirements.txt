@@ -1,0 +1,6 @@
+docx
+reportlab
+streamlit
+praw
+langchain_google_genai
+langchain_core
