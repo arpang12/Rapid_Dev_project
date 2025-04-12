@@ -135,3 +135,9 @@ if st.session_state.persona_generated:
     )
 else:
     st.info("Please click 'Generate Persona' to create the persona map.")
+
+st.markdown("---")
+st.markdown("Made with Love by Arpan Guria")
+st.markdown("[Connect with me on LinkedIn](https://www.linkedin.com/in/arpan-guria/)")
+st.markdown("[FAQ](https://drive.google.com/drive/folders/1Gtp5Gu1qIXJym6Xb8JbhHUD_R1yPlosU?usp=sharing)")
+st.markdown("[Setup Guide](https://drive.google.com/drive/folders/1Gtp5Gu1qIXJym6Xb8JbhHUD_R1yPlosU?usp=sharing)")
